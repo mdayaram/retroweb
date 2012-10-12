@@ -141,3 +141,24 @@
     } 
   }
 }
+
+@func XMLNode.tablefy(Text %xpath){
+  $(%xpath) {
+    name("table")
+    $(".//div | .//ul | .//li") {
+      %i = index()
+      %n = name()
+      name("table")
+    }
+
+    yield()
+  }
+}
+
+@func XMLNode.remove_styles() {
+  remove(".//link[@rel='stylesheet']|.//style")
+}
+
+@func XMLNode.remove_scripts() {
+  remove(".//script")
+}

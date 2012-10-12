@@ -20,5 +20,7 @@ $("/html") {
   $("//body") {
     rainbowfy()
   }
+
+#  tablefy("//body")
 }
 
