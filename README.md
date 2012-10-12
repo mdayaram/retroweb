@@ -15,7 +15,7 @@ Example:
 Future Work
 ===========
 
- * `tablefy` function; will turn `div`, `ul`, and `li` tags into tables!
+ * `tablefy` function; will turn `<div>`, `<ul>`, and `<li>` tags into tables!
  * Animated gif support.
  * More background choices.
  * Midi/MP3 playback support.
