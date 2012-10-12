@@ -19,3 +19,5 @@ Future Work
  * Animated gif support.
  * More background choices.
  * Midi/MP3 playback support.
+ * Easy Guestbook
+ * Lateload + Dialup sound (dialupify)
