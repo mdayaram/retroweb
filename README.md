@@ -8,10 +8,9 @@ fret no more!
 Webby provides an array of helper functions that aid in your quest for
 internet nostalgia!
 
-	Example:
-
-		http://webby.hazasite.com
-		http://webby.hazasite.com/construction
+Example:
+	http://webby.hazasite.com
+	http://webby.hazasite.com/construction
 
 Future Work
 ===========
