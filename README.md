@@ -1,16 +1,22 @@
-## Basics
-This project works with the MoovSDK.
+## Webby :: 90fy the Web!
 
-See detailed documentation for the MoovSDK at http://beta.moovweb.com
+Webby is an example project to show off the function library for 90fying the
+web!  Don't you miss the good old days of marquee, background gradients, and
+animated gifs?  Are you sad that most browsers no longer support blink? Well
+fret no more!
 
-## Domains
-Remember to put all domains you're going to hit in your etc/hosts
-or to run your server with the `-auto-hosts=true` option.
+Webby provides an array of helper functions that aid in your quest for
+internet nostalgia!
 
-    127.0.0.1 	mlocal.google.com
-    127.0.0.1 	mlocal.video.google.com
-    127.0.0.1 	mlocal.maps.google.com
-    127.0.0.1 	mlocal.news.google.com
-    127.0.0.1 	mlocal.mail.google.com
-    127.0.0.1 	mlocal.accounts.google.com
-    127.0.0.1 	mlocal.plus.google.com
+	Example:
+
+		http://webby.hazasite.com
+		http://webby.hazasite.com/construction
+
+Future Work
+===========
+
+ * `tablefy` function; will turn `div`, `ul`, and `li` tags into tables!
+ * Animated gif support.
+ * More background choices.
+ * Midi/MP3 playback support.
