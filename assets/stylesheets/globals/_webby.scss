@@ -2,3 +2,7 @@
 .webby_blink_hidden {
   opacity: 0
 }
+
+.webby_bg {
+  @include background(linear-gradient(bottom right, #FFFFFF 0%, #FF0000 11%, #EBFA20 22%, #28F000 33%, #17FFF7 44%, #0008F9 55%, #FC00FC 66%, #FF0000 77%, #F7FF00 88%, #33FF00 100%));
+}

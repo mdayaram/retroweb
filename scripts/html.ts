@@ -21,5 +21,9 @@ $("/html") {
   $("//a[@class='thumbnail ']") {
     blinkify()
   }
+
+  $("//body") {
+    rainbowfy()
+  }
 }
 

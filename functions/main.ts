@@ -127,3 +127,7 @@
 @func XMLNode.blinkify() {
   add_class("webby_blink")
 }
+
+@func XMLNode.rainbowfy() {
+  add_class("webby_bg")
+}
