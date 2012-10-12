@@ -1,12 +1,6 @@
 {
 	"host_map": [
-		"$.google.com => www.google.com",
-		"$.google.com => google.com",
-		"$.video.google.com => video.google.com",
-		"$.maps.google.com => maps.google.com",
-		"$.news.google.com => news.google.com",
-		"$.mail.google.com => mail.google.com",
-		"$.accounts.google.com => accounts.google.com",
-		"$.plus.google.com => plus.google.com"
+		"www.90swebby.com => www.google.com",
+		"90swebby.com => google.com",
 	]
 }
