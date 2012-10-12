@@ -14,23 +14,12 @@ $("/html") {
     remove()
   }
 
-  $("//h1") {
+  $("//p[@class='title']") {
     marqueefy()
   }
-  $("//h2") {
-    marqueefy()
-  }
-  $("//h3") {
-    marqueefy()
-  }
-  $("//h4") {
-    marqueefy()
-  }
-  $("//h5") {
-    marqueefy()
-  }
-  $("//h6") {
-    marqueefy()
+
+  $("//a[@class='thumbnail ']") {
+    blinkify()
   }
 }
 

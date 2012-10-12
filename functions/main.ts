@@ -123,3 +123,7 @@
 @func XMLNode.marqueefy() {
   wrap("marquee")
 }
+
+@func XMLNode.blinkify() {
+  add_class("webby_blink")
+}
