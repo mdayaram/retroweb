@@ -2,7 +2,7 @@
 
 Webby is an example project to show off the function library for 90fying the
 web!  Don't you miss the good old days of marquee, background gradients, and
-animated gifs?  Are you sad that most browsers no longer support blink? Well
+animated gifs?  Are you sad that most browsers no longer support `<blink>`? Well
 fret no more!
 
 Webby provides an array of helper functions that aid in your quest for
