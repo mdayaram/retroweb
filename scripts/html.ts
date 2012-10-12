@@ -9,8 +9,28 @@ $("/html") {
   @import sections/footer.ts
   @import mappings.ts
   
+  # Remove annoying topbar for google.
   $$("#gb") {
     remove()
+  }
+
+  $("//h1") {
+    marqueefy()
+  }
+  $("//h2") {
+    marqueefy()
+  }
+  $("//h3") {
+    marqueefy()
+  }
+  $("//h4") {
+    marqueefy()
+  }
+  $("//h5") {
+    marqueefy()
+  }
+  $("//h6") {
+    marqueefy()
   }
 }
 
