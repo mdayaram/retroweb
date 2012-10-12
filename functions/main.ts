@@ -131,3 +131,13 @@
 @func XMLNode.rainbowfy() {
   add_class("webby_bg")
 }
+
+@func XMLNode.construction() {
+  $("//html/body") {
+    inner("<img>") 
+    $("./img") {
+      wrap("center")
+      attribute("src", asset("images/construction.gif"))
+    } 
+  }
+}
