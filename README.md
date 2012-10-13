@@ -20,6 +20,9 @@ Future Work
  * More background choices.
  * Midi/MP3 playback support.
  * Easy Guestbook
+ * Easy Visitors Counter
  * Lateload + Dialup sound (dialupify)
+   * Have div overlay on top of every image.
+	 * Slowly animate shrinking the overload from top to bottom.
  * Mouse Trail Text
  * Best Viewed by Internet Explorer or Netscape
