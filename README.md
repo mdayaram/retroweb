@@ -22,3 +22,4 @@ Future Work
  * Easy Guestbook
  * Lateload + Dialup sound (dialupify)
  * Mouse Trail Text
+ * Best Viewed by Internet Explorer or Netscape
