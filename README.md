@@ -26,3 +26,5 @@ Future Work
 	 * Slowly animate shrinking the overload from top to bottom.
  * Mouse Trail Text
  * Best Viewed by Internet Explorer or Netscape
+ * Gifify
+   * Take a list of pictures and a framerate, simulate a gif animation with them.
