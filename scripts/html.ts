@@ -9,18 +9,5 @@ $("/html") {
   @import sections/footer.ts
   @import mappings.ts
   
-  $("//p[@class='title']") {
-    marqueefy()
-  }
-
-  $("//a[@class='thumbnail ']") {
-    blinkify()
-  }
-
-  $("//body") {
-    rainbowfy()
-  }
-
-#  tablefy("//body")
 }
 
