@@ -125,7 +125,13 @@
 }
 
 @func XMLNode.blinkify() {
-  add_class("webby_blink")
+  match(name()) {
+    with(/img/i) {
+      attribute("onload", "$(this).addClass('webby_blink')")
+    } else() {
+      add_class("webby_blink")
+    }
+  }
 }
 
 @func XMLNode.rainbowfy() {
@@ -153,6 +159,10 @@
 
     yield()
   }
+}
+
+@func throttle(Text %url) {
+  concat("http://dialup.herokuapp.com/2/", %url)
 }
 
 @func XMLNode.remove_styles() {
