@@ -16,7 +16,6 @@ Future Work
 ===========
 
  * `tablefy` function; will turn `<div>`, `<ul>`, and `<li>` tags into tables!
- * Animated gif support.
  * More background choices.
  * Midi/MP3 playback support.
  * Easy Guestbook
@@ -25,3 +24,4 @@ Future Work
  * Best Viewed by Internet Explorer or Netscape
  * Gifify
    * Take a list of pictures and a framerate, simulate a gif animation with them.
+ * Nyan cat flying around.
