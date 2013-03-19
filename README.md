@@ -10,8 +10,8 @@ Retroweb provides an array of helper functions that aid in your quest for
 internet nostalgia!
 
 Example:
-* http://retro.reddit.com.moovapp.com
-* http://retro.reddit.com.moovapp.com/construction
+* http://mnoj2197.reddit.com.moovapp.com
+* http://mnoj2197.reddit.com.moovapp.com/construction
 
 ## Slow Loader
 Retroweb tries to search for all images on a page and pipes them through a proxy
