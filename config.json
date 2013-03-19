@@ -1,5 +1,5 @@
 {
 	"host_map": [
-		"retro.reddit.com => www.reddit.com"
+		"$.reddit.com => www.reddit.com"
 	]
 }
