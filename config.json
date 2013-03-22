@@ -1,7 +1,5 @@
 {
 	"host_map": [
-// Uncomment below line if pushing to webby project.
-//		"$.reddit.com => www.reddit.com",
 		"webby.hazasite.com => www.reddit.com",
 		"webby.hazasite.net => www.reddit.com"
 	]
